@@ -1,0 +1,12 @@
+.burger-menu {
+  display: none;
+}
+
+@media (max-width: 820px) {
+  .burger-menu {
+    display: inline;
+    color: #fff;
+    width: 2.4rem;
+    height: 2.4rem;
+  }
+}
